@@ -1,4 +1,4 @@
-# learning_platform
+# Coding_platform
 
 HACKER RANK  
 https://www.hackerrank.com/profile/h2100030721  
